@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 RTC
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 Cb_Do_Am_Dat
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 DHT11
